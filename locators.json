@@ -1,0 +1,114 @@
+{
+    "Button_Login": {
+        "screenshot": ".images\\button_login-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[@type='submit']"
+    },
+    "CSS_ButtonOK": {
+        "screenshot": ".images\\css_buttonok-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-dark"
+    },
+    "CSS_ModalHeader": {
+        "screenshot": ".images\\css_modalheader-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".modal-header"
+    },
+    "CSS_body": {
+        "screenshot": ".images\\css_body-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".stacked"
+    },
+    "CSS_head": {
+        "screenshot": ".images\\css_head-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#head"
+    },
+    "ID_Password": {
+        "screenshot": ".images\\id_password-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "password"
+    },
+    "ID_Preview": {
+        "screenshot": ".images\\id_preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "preview"
+    },
+    "ID_UserName": {
+        "screenshot": ".images\\id_username-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "username"
+    },
+    "Link_OrderRobot": {
+        "screenshot": ".images\\link_orderrobot-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "link",
+        "type": "browser",
+        "value": "Order your robot!"
+    },
+    "XPath_ButtonOK": {
+        "screenshot": ".images\\xpath_buttonok-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[contains(.,'OK')]"
+    },
+    "XPath_btnOK": {
+        "screenshot": ".images\\xpath_btnok-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[contains(.,'OK')]"
+    },
+    "XPath_btnPreview": {
+        "screenshot": ".images\\xpath_btnpreview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[@id='preview']"
+    },
+    "xpath_address": {
+        "screenshot": ".images\\xpath_address-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//input[@id='address']"
+    },
+    "xpath_legs": {
+        "screenshot": ".images\\xpath_legs-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//label[contains(.,'3. Legs:')]/../input"
+    },
+    "xpath_order": {
+        "screenshot": ".images\\xpath_order-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[@id='order']"
+    },
+    "xpath_preview": {
+        "screenshot": ".images\\xpath_preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[@id='preview']"
+    }
+}
